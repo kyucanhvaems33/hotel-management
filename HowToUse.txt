@@ -2,3 +2,5 @@ Step 1: Open the script file and Query it with Microsoft SQL Sever 2014 or above
 Step 2: Open solution (project) with visual studio code 2015 or above.
 Step 3: Change the string connection to sql in class GetData().
 Step 4: Enjoy!
+
+Default username and passwords: admin - admin
