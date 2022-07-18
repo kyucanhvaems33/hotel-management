@@ -1,0 +1,90 @@
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_GiaoDienChinh.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_LogIn.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLKH.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLP.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLDV.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLNV.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLTK.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_THUE.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_TRA.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_SDDV.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_CHITIETSDDV.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_PhieuThue.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_HoaDonThanhToan.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_HoaDonSDDV.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_ChiTietHoaDon.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_TimKiem_KH.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_TimKiem_P.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_DoanhThu_P.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\RdlCompile.cache
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\RdlCompile.compiled
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_DoanhThu_DV.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_Export_Thue.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_Export_Tra.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_Export_SDDV.resources
+C:\Users\THANG BUI\Desktop\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_LogInOut.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_GiaoDienChinh.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_LogIn.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLDV.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLTK.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_THUE.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_TRA.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_SDDV.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_CHITIETSDDV.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_PhieuThue.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_HoaDonSDDV.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_HoaDonThanhToan.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_ChiTietHoaDon.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_TimKiem_KH.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_DoanhThu_DV.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_DoanhThu_P.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_TimKiem_P.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_Export_Thue.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_Export_SDDV.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_Export_Tra.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_LogInOut.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLKH.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLNV.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.F_QLP.resources
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\RdlCompile.cache
+D:\HocTap\3\2\DoAnPhanMem\App\QLKS\QLKS\obj\Debug\RdlCompile.compiled

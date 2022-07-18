@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19C64BF8-09D1-497D-86F5-D1010B890B53}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLKS</RootNamespace>
+    <AssemblyName>QLKS</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChiTietSDDV.cs" />
+    <Compile Include="DTDichVu.cs" />
+    <Compile Include="DTPhong.cs" />
+    <Compile Include="Form\F_GiaoDienChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_GiaoDienChinh.Designer.cs">
+      <DependentUpon>F_GiaoDienChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_LogIn.Designer.cs">
+      <DependentUpon>F_LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_QLDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_QLDV.Designer.cs">
+      <DependentUpon>F_QLDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_QLTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_QLTK.Designer.cs">
+      <DependentUpon>F_QLTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_THUE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_THUE.Designer.cs">
+      <DependentUpon>F_THUE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_TRA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_TRA.Designer.cs">
+      <DependentUpon>F_TRA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_SDDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_SDDV.Designer.cs">
+      <DependentUpon>F_SDDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_CHITIETSDDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_CHITIETSDDV.Designer.cs">
+      <DependentUpon>F_CHITIETSDDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_PhieuThue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_PhieuThue.Designer.cs">
+      <DependentUpon>F_PhieuThue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_HoaDonSDDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_HoaDonSDDV.Designer.cs">
+      <DependentUpon>F_HoaDonSDDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_HoaDonThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_HoaDonThanhToan.Designer.cs">
+      <DependentUpon>F_HoaDonThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_ChiTietHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_ChiTietHoaDon.Designer.cs">
+      <DependentUpon>F_ChiTietHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_TimKiem_KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_TimKiem_KH.Designer.cs">
+      <DependentUpon>F_TimKiem_KH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_DoanhThu_DV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_DoanhThu_DV.Designer.cs">
+      <DependentUpon>F_DoanhThu_DV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_DoanhThu_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_DoanhThu_P.Designer.cs">
+      <DependentUpon>F_DoanhThu_P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_TimKiem_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_TimKiem_P.Designer.cs">
+      <DependentUpon>F_TimKiem_P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_Export_Thue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_Export_Thue.Designer.cs">
+      <DependentUpon>F_Export_Thue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_Export_SDDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_Export_SDDV.Designer.cs">
+      <DependentUpon>F_Export_SDDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_Export_Tra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_Export_Tra.Designer.cs">
+      <DependentUpon>F_Export_Tra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_LogInOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_LogInOut.Designer.cs">
+      <DependentUpon>F_LogInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetData.cs" />
+    <Compile Include="KhachHang.cs" />
+    <Compile Include="MessageBoxManager.cs" />
+    <Compile Include="PhieuThue.cs" />
+    <Compile Include="PhieuTra.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form\F_QLKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_QLKH.Designer.cs">
+      <DependentUpon>F_QLKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_QLNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_QLNV.Designer.cs">
+      <DependentUpon>F_QLNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\F_QLP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\F_QLP.Designer.cs">
+      <DependentUpon>F_QLP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuSDDV.cs" />
+    <Compile Include="TaiKhoan.cs" />
+    <Compile Include="Tra.cs" />
+    <EmbeddedResource Include="Form\F_GiaoDienChinh.resx">
+      <DependentUpon>F_GiaoDienChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_LogIn.resx">
+      <DependentUpon>F_LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_QLDV.resx">
+      <DependentUpon>F_QLDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_QLTK.resx">
+      <DependentUpon>F_QLTK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_THUE.resx">
+      <DependentUpon>F_THUE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_TRA.resx">
+      <DependentUpon>F_TRA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_SDDV.resx">
+      <DependentUpon>F_SDDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_CHITIETSDDV.resx">
+      <DependentUpon>F_CHITIETSDDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_PhieuThue.resx">
+      <DependentUpon>F_PhieuThue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_HoaDonSDDV.resx">
+      <DependentUpon>F_HoaDonSDDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_HoaDonThanhToan.resx">
+      <DependentUpon>F_HoaDonThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_ChiTietHoaDon.resx">
+      <DependentUpon>F_ChiTietHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_TimKiem_KH.resx">
+      <DependentUpon>F_TimKiem_KH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_DoanhThu_DV.resx">
+      <DependentUpon>F_DoanhThu_DV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_DoanhThu_P.resx">
+      <DependentUpon>F_DoanhThu_P.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_TimKiem_P.resx">
+      <DependentUpon>F_TimKiem_P.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_Export_Thue.resx">
+      <DependentUpon>F_Export_Thue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_Export_SDDV.resx">
+      <DependentUpon>F_Export_SDDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_Export_Tra.resx">
+      <DependentUpon>F_Export_Tra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_LogInOut.resx">
+      <DependentUpon>F_LogInOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuSDDV.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Form\F_QLKH.resx">
+      <DependentUpon>F_QLKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_QLNV.resx">
+      <DependentUpon>F_QLNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\F_QLP.resx">
+      <DependentUpon>F_QLP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RP_PhieuTra.rdlc" />
+    <EmbeddedResource Include="RP_PhieuThue.rdlc" />
+    <EmbeddedResource Include="RP_DoanhThuDichVu.rdlc" />
+    <EmbeddedResource Include="RP_DoanhThuPhong.rdlc" />
+    <None Include="Properties\DataSources\ChiTietSDDV.datasource" />
+    <None Include="Properties\DataSources\DTDichVu.datasource" />
+    <None Include="Properties\DataSources\DTPhong.datasource" />
+    <None Include="Properties\DataSources\F_DoanhThu_P.datasource" />
+    <None Include="Properties\DataSources\KhachHang.datasource" />
+    <None Include="Properties\DataSources\PhieuSDDV.datasource" />
+    <None Include="Properties\DataSources\PhieuThue.datasource" />
+    <None Include="Properties\DataSources\PhieuTra.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khach-s-n-elizabeth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\White_flag_of_surrender.svg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
